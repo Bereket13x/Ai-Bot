@@ -1,7 +1,7 @@
 <?php
 /*
-AUTHOR:- RITHUNAND [BENCHAMXD]
-CHANNEL:- @INDUSBOTS 
+AUTHOR:- RITHUNAND [Bereketx]
+CHANNEL:- @Ethio_Apps_Store
 THIS REPO IS LICENCED WITH GENERAL PUBLIC LICENSE VERSION:3.0
 
 (c) RITHUNAND K
@@ -75,8 +75,8 @@ Also add me to your group and make me admin. I'll replay to every photo😌.***"
 'parse_mode'=>"MarkDown",
 'reply_markup' =>  json_encode([
 'inline_keyboard' => [
-[['text' => "SUPPORT",'url' => "https://telegram.me/induschats"],['text' => "CREATOR", 'url' => "https://telegram.me/benchamxd"]],
-[['text' => "ADD ME", 'url' => "https://telegram.me/$BOT_USERNAME?startgroup=False"],['text' => "Repo", 'url' => "https://github.com/Benchamxd/Ai-Bot"]], 
+[['text' => "SUPPORT",'url' => "https://telegram.me/Ethio_Apps_Store"],['text' => "CREATOR", 'url' => "https://telegram.me/bereketx"]],
+[['text' => "ADD ME", 'url' => "https://telegram.me/$BOT_USERNAME?startgroup=False"],['text' => "Channel", 'url' => "https://t.me/Ethio_Apps_Store"]], 
 ]])
 ]);
 }
